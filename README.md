@@ -15,7 +15,7 @@ Animals :dog:
 
 ![Michell's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelldias04&show_icons=true&theme=highcontrast)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelldias04)](https://github.com/michelldias04/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelldias04)](https://github.com/michelldias04/github-readme-stats&theme=highcontrast)
 ***
 
 <h4 align="left">Social Media</h4>   
