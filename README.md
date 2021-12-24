@@ -4,7 +4,7 @@
 
 <div>
     <a href="https://github.com/michelldias04"></a>
-    <img height="180em" src="htps://github-readme-stats.vercel.app/api?username=michelldias04&show_icons=true&theme=highcontrast&include_all_commits-true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelldias04&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelldias04&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
@@ -23,20 +23,20 @@
 
 <div>
     <p align="left">
-    😀These are some things that I like:  
+    😀These are some things that I like:<br>
     <a href="https://www.chess.com/member/michelld04">
         Chess :chess_pawn: 
-    </a>
+    </a><br>
     <a href="https://steamcommunity.com/id/mTempsz04/">
         Games :joystick:
-    </a>  
-    Coffee :coffee:  
-    Design :art:  
+    </a><br>
+    Coffee :coffee:<br>  
+    Design :art:<br>  
      <a href="https://open.spotify.com/user/ztnh4sn5hd67wmeev2a9zw69b?si=45c28ee93233461f">
         Music :musical_note:
-    </a>  
-    Sports :medal_sports:  
-    Astronomy :ringed_planet:  
+    </a><br>  
+    Sports :medal_sports:<br>  
+    Astronomy :ringed_planet:<br>  
     Animals :dog: 
     </p> 
 </div>
